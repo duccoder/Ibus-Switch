@@ -1,0 +1,12 @@
+{
+	"engine": {
+		"Unikey": {
+			"name": "Unikey",
+			"icon": "indicator-keyboard-Vi"
+		},
+		"xkb:us::eng": {
+			"name": "English (US)",
+			"icon": "indicator-keyboard-En"
+		}
+	}
+}
